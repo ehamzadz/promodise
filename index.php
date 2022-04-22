@@ -181,8 +181,8 @@
                             <img src="images/icon/008-digital-marketing-2.png" alt="service-icon" class="img-fluid">
                         </div>
                         <div class="service-inner">
-                            <h4>Email Marketing</h4>
-                            <p>Email Marketing is a great solution to reach a <span>high range of customers</span> eagrerly waiting to get a service.</p>
+                            <h4>Téléconsultation</h4>
+                            <p>Accès à tout moment et de n’importe où.</p>
                         </div>
                     </div>
                 </div>
@@ -192,8 +192,8 @@
                             <img src="images/icon/003-task.png" alt="service-icon" class="img-fluid">
                         </div>
                         <div class="service-inner">
-                            <h4>SEO optimization</h4>
-                            <p>we provide wide range of<span> seo service</span> to make your site at top to reach your target customers provided.</p>
+                            <h4>Télé-expertise SUR DOSSIER MEDICALE</h4>
+                            <p>Gagné  du temps et avoir <span>un deuxième avis</span> par des médecins experts.</p>
                         </div>
                     </div>
                 </div>
@@ -204,8 +204,8 @@
                             <img src="images/icon/010-digital-marketing.png" alt="service-icon" class="img-fluid">
                         </div>
                         <div class="service-inner">
-                            <h4>Custom Website</h4>
-                            <p>We  provide <span>custom website</span> for any small and large company web based service in large compact package.</p>
+                            <h4>Télésurveillance A distance </h4>
+                            <p>Amélioration du suivi médical. Les objets connectés (ECG, tensiomètre, spiromètre…) seront les outils du futur dans le domaine du suivi médical et de la prévention en ciblant.</p>
                         </div>
                     </div>
                 </div>
@@ -215,19 +215,8 @@
                             <img src="images/icon/006-analytics.png" alt="service-icon" class="img-fluid">
                         </div>
                         <div class="service-inner">
-                            <h4>Content Growth</h4>
-                            <p>Content is king,Having a blog site and want to <span>build content</span> make a platform of earning too we assist you.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 col-md-6">
-                    <div class="service-box">
-                        <div class="service-img-icon">
-                            <img src="images/icon/004-hiring.png" alt="service-icon" class="img-fluid">
-                        </div>
-                        <div class="service-inner">
-                            <h4>Link Building </h4>
-                            <p>Want to grow your <span>potential visitor</span> your site to make it more effective and succesful business .</p>
+                            <h4>TELE RADIOLOGIE </h4>
+                            <p>Permet ainsi au médecin en contact direct avec le patient.</p>
                         </div>
                     </div>
                 </div>
@@ -411,17 +400,32 @@
 <section  class="section-padding ">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-sm-6 col-md-3 text-center">
-                <img src="images/clients/client01.png" alt="partner" class="img-fluid">
+            <div class="col-lg-12 col-sm-12 m-auto">
+                <div class="section-heading">
+                    <h4 class="section-title">Future Partenaires</h4>
+                    <div class="line"></div>
+                    <!-- <p>Our blog journey may come handy to build a community to make more effective success for business. Latest and trend tricks will help a lot </p> -->
+                </div>
             </div>
-            <div class="col-lg-3 col-sm-6 col-md-3 text-center">
-                <img src="images/clients/client06.png" alt="partner" class="img-fluid">
+        </div>
+        <div class="row">
+            <div class="col-lg-2 col-sm-6 col-md-3 text-center">
+                <img src="images/clients/MINSTERE DE LA JUSTICE.png" alt="partner" class="img-fluid">
             </div>
-            <div class="col-lg-3 col-sm-6 col-md-3 text-center">
-                 <img src="images/clients/client04.png" alt="partner" class="img-fluid">
+            <div class="col-lg-2 col-sm-6 col-md-3 text-center">
+                <img src="images/clients/CAAT.png" alt="partner" class="img-fluid">
             </div>
-            <div class="col-lg-3 col-sm-6 col-md-3 text-center">
-                <img src="images/clients/client05.png" alt="partner" class="img-fluid">
+            <div class="col-lg-2 col-sm-6 col-md-3 text-center">
+                 <img src="images/clients/casnos.png" alt="partner" class="img-fluid">
+            </div>
+            <div class="col-lg-2 col-sm-6 col-md-3 text-center">
+                <img src="images/clients/Ministere de la sante.png" alt="partner" class="img-fluid">
+            </div>
+            <div class="col-lg-2 col-sm-6 col-md-3 text-center">
+                <img src="images/clients/cnas.png" alt="partner" class="img-fluid">
+            </div>
+            <div class="col-lg-2 col-sm-6 col-md-3 text-center">
+                <img src="images/clients/poste.jpg" alt="partner" class="img-fluid">
             </div>
         </div>
     </div>
@@ -434,30 +438,30 @@
         <div class="row">
             <div class="col-lg-3 col-sm-6 col-md-6">
                 <div class="counter-stat">
-                    <i class="icofont icofont-heart"></i>
-                    <span class="counter">460</span>
-                    <h5>Our Happy Clients</h5>
+                    <!-- <i class="icofont icofont-earth"></i> -->
+                    <span class="counter">2</span>
+                    <h5>Pays</h5>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-md-6">
                 <div class="counter-stat">
-                    <i class="icofont icofont-rocket"></i>
-                    <span class="counter">60</span>
-                    <h5>Projects Done</h5>
+                    <!-- <i class="icofont icofont-users"></i> -->
+                    +<span class="counter">2</span>M
+                    <h5>Utilisateurs</h5>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-md-6">
                 <div class="counter-stat">
-                    <i class="icofont icofont-hand-power"></i>
-                    <span class="counter">30</span>
-                    <h5>Experienced stuff</h5>
-                </div>
-            </div>
-            <div class="col-lg-3 col-sm-6 col-md-6">
-                <div class="counter-stat">
-                    <i class="icofont icofont-shield-alt"></i>
+                    <!-- <i class="icofont icofont-location-pin"></i> -->
                     <span class="counter">25</span>
-                    <h5>Ongoning Projects</h5>
+                    <h5>Villes</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 col-md-6">
+                <div class="counter-stat">
+                   <!--  <i class="icofont "></i> -->
+                    +<span class="counter">40</span>K
+                    <h5>Partenaires</h5>
                 </div>
             </div>
         </div>
@@ -465,7 +469,7 @@
 </section>
 <!--  COUNTER AREA END  -->
 <!--  BLOG AREA START  -->
-   <!--  <section id="blog" class="section-padding">
+    <!-- <section id="blog" class="section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-sm-12 m-auto">
@@ -520,88 +524,7 @@
     <!--  BLOG AREA END  -->
 
 <!--  FOOTER AREA START  -->
-<section id="footer" class="section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-5 col-sm-8 col-md-8">
-                <div class="footer-widget footer-link">
-                    <h4>We concern about you<br> to grow business rapidly.</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore ipsam hic non sunt recusandae atque unde saepe nihil earum voluptatibus aliquid optio suscipit nobis quia excepturi vel quod, iure quae.</p>
-                </div>
-            </div>
-            <div class="col-lg-2 col-sm-4 col-md-4">
-                <div class="footer-widget footer-link">
-                    <h4>About</h4>
-                    <ul>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Service</a></li>
-                        <li><a href="#">Pricing</a></li>
-                        <li><a href="#">Team</a></li>
-                        <li><a href="#">Testimonials</a></li>
-                        <li><a href="#">Blog</a></li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="col-lg-2 col-sm-6 col-md-6">
-                <div class="footer-widget footer-link">
-                    <h4>Quick Links</h4>
-                    <ul>
-                        <li><a href="#">How it Works</a></li>
-                        <li><a href="#">Support</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Report Bug</a></li>
-                        <li><a href="#">License</a></li>
-                        <li><a href="#">Terms & Condition</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3 col-sm-6 col-md-6">
-                <div class="footer-widget footer-text">
-                    <h4>Our location</h4>
-                    <p class="mail"><span>Mail:</span> promdise@gmail.com</p>
-                    <p><span>Phone :</span>+202-277-3894</p>
-                    <p><span>Location:</span> 455 West Orchard Street Kings Mountain, NC 28086,NOC building</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <div class="footer-copy">
-                    © 2018 Promodise inc. All Rights Reserved.
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+<?php
+    require('footer.php');
+?>
 <!--  FOOTER AREA END  -->
-
-   
-
-    <!-- 
-    Essential Scripts
-    =====================================-->
-
-    
-    <!-- Main jQuery -->
-    <script src="plugins/jquery/jquery.min.js"></script>
-    <!-- Bootstrap 4.3.1 -->
-    <script src="plugins/bootstrap/js/popper.min.js"></script>
-    <script src="plugins/bootstrap/js/bootstrap.min.js"></script>
-   <!-- Woow animtaion -->
-    <script src="plugins/counterup/wow.min.js"></script>
-    <script src="plugins/counterup/jquery.easing.1.3.js"></script>
-     <!-- Counterup -->
-    <script src="plugins/counterup/jquery.waypoints.js"></script>
-    <script src="plugins/counterup/jquery.counterup.min.js"></script>
-
-    <!-- Google Map -->
-    <script src="plugins/google-map/gmap3.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkeLMlsiwzp6b3Gnaxd86lvakimwGA6UA&callback=initMap"></script>   
-    <!-- Contact Form -->
-    <script src="plugins/jquery/contact.js"></script>
-    <script src="js/custom.js"></script>
-
-  </body>
-  </html>
-   
