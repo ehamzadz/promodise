@@ -25,10 +25,10 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-sm-12 col-md-8 mb-4">
-                    <h3 class="mb-3">We’re Innovators & <br>SEO Marketing Agency</h3>
-                    <p class="mb-4">We provide marketing services to startups and small businesses to looking for a partner for their digital media, design-dev, lead generation</p>
+                    <h3 class="mb-3">AVISMEDNET </h3>
+                    <p class="mb-4">Est une plateforme, comme son nom l’indique, d’avis médical qui donne la chance aux patients d’avoir accès à une expertise qu’ils ne peuvent avoir là où ils sont pour absence de médecins spécialistes ou qui désirent avoir un deuxième avis sur leur état de santé Les acteurs sont patients, généralistes ou spécialistes utilisent cette plateforme.</p>
 
-                    <span class="h5 mb-4">Let's Check what we do actually :</span>
+                    <span class="h5 mb-4">Les Services :</span>
                     <ul class="about-list2 my-4">
                         <li class="mb-2"><i class="icofont icofont-check-circled"></i> Best Analytics Audits to your site in specific niche</li>
 
@@ -84,7 +84,7 @@
 </section> -->
 <!--  HISTORY AREA END  -->
 <!--  COUNTER AREA  -->
-<section class="section-padding pt-0">
+<!-- <section class="section-padding pt-0">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-6">
@@ -113,7 +113,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!--  COUNTER AREA END -->
 <!--  SECTION Service-2START  -->
 <!-- <section class="section-padding" id="section-strategy">
@@ -225,7 +225,7 @@
 </section> -->
 <!--  SECTION TEAM END  --> 
  <!--  PARTNER START  -->
-<section class="section-padding ">
+<!-- <section class="section-padding ">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 text-center text-lg-left">
@@ -250,7 +250,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!--  PARTNER END  -->
 
 <!--  FOOTER AREA START  -->
