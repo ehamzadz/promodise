@@ -145,21 +145,6 @@
 </section> -->
 <!--  SERVICE AREA END  -->
 
-<!--  SERVICE PARTNER START  -->
-<!-- <section id="service-head" class=" bg-feature">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-sm-12 m-auto">
-                <div class="section-heading text-white">
-                    <h4 class="section-title">Full stack digital marketing solution</h4>
-                    <p>We’re full service which means we’ve got you covered on design & content right through to digital. You’ll form a lasting relationship with us.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
-<!--  SERVICE PARTNER END  -->
-
 <!--  SERVICE AREA START  -->
     <section id="service">
         <div class="container">
@@ -217,6 +202,22 @@
     </section>
     <!--  SERVICE AREA END  -->
 <!-- PRICE AREA START  -->
+
+
+<!--  SERVICE PARTNER START  -->
+<!-- <div id="service-head" class=" bg-feature">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-sm-12 m-auto">
+                <div class="section-heading text-white">
+                    <h4 class="section-title">Full stack digital marketing solution</h4>
+                    <p>We’re full service which means we’ve got you covered on design & content right through to digital. You’ll form a lasting relationship with us.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> -->
+        <!--  SERVICE PARTNER END  -->
    <!--  <section id="pricing" class="section-padding bg-main">
         <div class="container">
             <div class="row">
@@ -389,17 +390,18 @@
     </section>-->
     <!--  TESTIMONIAL AREA END  -->
 <!--  PARTNER START  -->
-<section  class="section-padding ">
+<section  class="section-padding" style="padding-top:0">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-sm-12 m-auto">
                 <div class="section-heading">
                     <h4 class="section-title">Future Partenaires</h4>
                     <div class="line"></div>
-                    <!-- <p>Our blog journey may come handy to build a community to make more effective success for business. Latest and trend tricks will help a lot </p> -->
+                    <p>Our blog journey may come handy to build a community to make more effective success for business. Latest and trend tricks will help a lot </p> -->
                 </div>
             </div>
         </div>
+        
         <div class="row">
             <div class="col-lg-2 col-sm-6 col-md-3 text-center">
                 <img src="images/clients/MINSTERE DE LA JUSTICE.png" alt="partner" class="img-fluid">
@@ -461,7 +463,7 @@
 </section>
 <!--  COUNTER AREA END  -->
 <!--  BLOG AREA START  -->
-    <!-- <section id="blog" class="section-padding">
+    <section id="blog" class="section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-sm-12 m-auto">
@@ -512,7 +514,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
     <!--  BLOG AREA END  -->
 
 <!--  FOOTER AREA START  -->

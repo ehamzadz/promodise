@@ -70,6 +70,10 @@
                     <li class="nav-item">
                         <a class="nav-link smoth-scroll" href="contact.php">Contact</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link smoth-scroll" href="Privacy-policy.php">Politique de confidentialité</a>
+                    </li>
+                   
                 </ul>
             </div>
         </div>
