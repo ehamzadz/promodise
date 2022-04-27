@@ -12,10 +12,10 @@
                 <div class="row">
                     <div class="col-lg-8 m-auto text-center col-sm-12 col-md-12">
                         <div class="banner-content content-padding">
-                            <h5 class="subtitle">A creative agency</h5>
-                            <h1 class="banner-title">Avis Medical</h1>
-                            <p>LA TÉLÉMÉDECINE NOUVELLE FORME D’EXERCICE DE LA MÉDECINE.</p>
-                            <p>la pandémie de Covid-19 a changé le système de  santé au monde pour la prévention des épidémie.</p>
+                            <h5 class="subtitle">AVISMED.net</h5>
+                            <h1 class="banner-title">La santé c'est les minutes qui compte</h1>
+                            <p style="background-color: rgba(1,1,1, 0.3)">la pandémie de Covid-19 a changé le système de  santé au monde pour la prévention des épidémie.</p>
+                            <p >LA TÉLÉMÉDECINE NOUVELLE FORME D’EXERCICE DE LA MÉDECINE.</p>
                             <a href="#" class="btn btn-white btn-circled">Se Connecter</a>
                         </div>
                     </div>
@@ -166,20 +166,19 @@
             <div class="row">
                 <div class="col-lg-4 col-sm-6 col-md-6">
                     <div class="service-box">
-                        <div class="service-img-icon">
-                            <img src="images/icon/007-digital-marketing-3.png" alt="service-icon" class="img-fluid">
-                        </div>
+                        <!-- <div class="service-img-icon">
+                            <img src="images/icon/images2.jpg" alt="service-icon" class="img-fluid">
+                        </div> -->
+                        <img src="images/icon/6.jpg" alt="service-icon" class="img-fluid">
                         <div class="service-inner">
-                            <h4>2 EME  AVIS MEDICAL </h4>
+                            <h4>2 éme avis médical </h4>
                             <p>Avoir une appréciation rapide du degré de l’urgence.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-6">
                     <div class="service-box ">
-                        <div class="service-img-icon">
-                            <img src="images/icon/008-digital-marketing-2.png" alt="service-icon" class="img-fluid">
-                        </div>
+                    <img src="images/icon/3.jpg" alt="service-icon" class="img-fluid">
                         <div class="service-inner">
                             <h4>Téléconsultation</h4>
                             <p>Accès à tout moment et de n’importe où.</p>
@@ -188,21 +187,16 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-6">
                     <div class="service-box">
-                        <div class="service-img-icon">
-                            <img src="images/icon/003-task.png" alt="service-icon" class="img-fluid">
-                        </div>
+                    <img src="images/icon/images2.jpg" alt="service-icon" class="img-fluid">
                         <div class="service-inner">
-                            <h4>Télé-expertise SUR DOSSIER MEDICALE</h4>
-                            <p>Gagné  du temps et avoir <span>un deuxième avis</span> par des médecins experts.</p>
+                            <h4>Télé Radiologie </h4>
+                            <p>Permet ainsi au médecin en contact direct avec le patient.</p>
                         </div>
                     </div>
                 </div>
-
                 <div class="col-lg-4 col-sm-6 col-md-6">
                     <div class="service-box">
-                        <div class="service-img-icon">
-                            <img src="images/icon/010-digital-marketing.png" alt="service-icon" class="img-fluid">
-                        </div>
+                    <img src="images/icon/4.jpg" alt="service-icon" class="img-fluid">
                         <div class="service-inner">
                             <h4>Télésurveillance A distance </h4>
                             <p>Amélioration du suivi médical. Les objets connectés (ECG, tensiomètre, spiromètre…) seront les outils du futur dans le domaine du suivi médical et de la prévention en ciblant.</p>
@@ -211,12 +205,10 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-6">
                     <div class="service-box">
-                        <div class="service-img-icon">
-                            <img src="images/icon/006-analytics.png" alt="service-icon" class="img-fluid">
-                        </div>
+                    <img src="images/icon/2.jpg" alt="service-icon" class="img-fluid">
                         <div class="service-inner">
-                            <h4>TELE RADIOLOGIE </h4>
-                            <p>Permet ainsi au médecin en contact direct avec le patient.</p>
+                            <h4>Télé-expertise sur dossier medical</h4>
+                            <p>Gagné  du temps et avoir <span>un deuxième avis</span> par des médecins experts.</p>
                         </div>
                     </div>
                 </div>
@@ -439,28 +431,28 @@
             <div class="col-lg-3 col-sm-6 col-md-6">
                 <div class="counter-stat">
                     <!-- <i class="icofont icofont-earth"></i> -->
-                    <span class="counter">2</span>
+                    <span class="counter">1</span>
                     <h5>Pays</h5>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-md-6">
                 <div class="counter-stat">
                     <!-- <i class="icofont icofont-users"></i> -->
-                    +<span class="counter">2</span>M
+                    +<span class="counter">200</span>
                     <h5>Utilisateurs</h5>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-md-6">
                 <div class="counter-stat">
                     <!-- <i class="icofont icofont-location-pin"></i> -->
-                    <span class="counter">25</span>
+                    <span class="counter">9</span>
                     <h5>Villes</h5>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-md-6">
                 <div class="counter-stat">
                    <!--  <i class="icofont "></i> -->
-                    +<span class="counter">40</span>K
+                    +<span class="counter">100</span>
                     <h5>Partenaires</h5>
                 </div>
             </div>

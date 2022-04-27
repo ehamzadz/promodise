@@ -32,7 +32,7 @@
 <nav class="navbar navbar-expand-lg fixed-top trans-navigation">
         <div class="container">
             <a class="navbar-brand" href="index.php" style='width:200px;'>
-                <img src="images/logo7.png" alt="" class="img-fluid b-logo">
+                <img src="images/l9.png" alt="" class="img-fluid b-logo">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon">

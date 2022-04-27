@@ -4,7 +4,7 @@
             <div class="col-lg-5 col-sm-8 col-md-8">
                 <div class="footer-widget footer-link">
                     <h4>Avis Medical</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore ipsam hic non sunt recusandae atque unde saepe nihil earum voluptatibus aliquid optio suscipit nobis quia excepturi vel quod, iure quae.</p>
+                    <p>Avis Med est une Plateforme de Télémedicine, complete le travaile de la clinique Aba Alkacime, c'est une première en Algerie, combinaison entre des consultations et soins medicale presentienl et à distance.</p>
                 </div>
             </div>
             <div class="col-lg-2 col-sm-4 col-md-4">
@@ -34,7 +34,7 @@
             <div class="col-lg-3 col-sm-6 col-md-6">
                 <div class="footer-widget footer-text">
                     <h4>Notre localisation</h4>
-                    <p class="mail"><span>Mail:</span> liamine1975@gmail.com</p>
+                    <p class="mail"><span>Mail:</span><!-- <a href="mailto:contact@avismed.net"> -->  contact@avismed.net<!-- </a> --></p>
                     <p><span>Téléphone :</span>+213 661 75 11 50</p>
                     <p><span>Localisation:</span> Bordj Bou Arreridj, Algeria</p>
                 </div>

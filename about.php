@@ -11,7 +11,7 @@
             <div class="col-lg-8 m-auto text-center col-sm-12 col-md-12">
                 <div class="banner-content content-padding">
                     <h1 class="text-white">Consultez notre histoire</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, perferendis?</p>
+                    <p>Une Plateforme de Télémedicine, la première en Algerie, entre des consultations et soins medicale presentienl et à distance.</p>
                 </div>
             </div>
         </div>
@@ -25,27 +25,37 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-sm-12 col-md-8 mb-4">
-                    <h3 class="mb-3">AVISMEDNET </h3>
+                    <h3 class="mb-3">AVISMED.NET </h3>
                     <p class="mb-4">Est une plateforme, comme son nom l’indique, d’avis médical qui donne la chance aux patients d’avoir accès à une expertise qu’ils ne peuvent avoir là où ils sont pour absence de médecins spécialistes ou qui désirent avoir un deuxième avis sur leur état de santé Les acteurs sont patients, généralistes ou spécialistes utilisent cette plateforme.</p>
 
                     <span class="h5 mb-4">Les Services :</span>
                     <ul class="about-list2 my-4">
-                        <li class="mb-2"><i class="icofont icofont-check-circled"></i> Best Analytics Audits to your site in specific niche</li>
+                        <li class="mb-2"><i class="icofont icofont-check-circled"></i> le 2ème avis médical : avoir une appréciation rapide du degré de l’urgence.</li>
+                        <li class="mb-2"><i class="icofont icofont-check-circled"></i> Téléconsultation : accès à tout moment et de n’importe où une consultation médicale.</li>
+                        <li class="mb-2"><i class="icofont icofont-check-circled"></i> Télé-expertise sur dossier médicale : Gagné du temps et avoir un avis par des médecins experts de l'intérieur et extérieur du pays.</li>
+                        <li class="mb-2"><i class="icofont icofont-check-circled"></i> Télésurveillance (IOT) : Amélioration du suivi médical à distance.</li>
+                        <li class="mb-2"><i class="icofont icofont-check-circled"></i> Les objets connectés (ECG, tensiomètre, spiromètre…) seront les outils du futur dans le domaine du suivi médical et de la prévention.
+Conclusion :
+Notre but est de faire gagner du temps, de l’argent et le confort des patients, il est dit que : « un patient mieux informé et plus actif pour sa santé a de meilleures chances de guérison ».</li>
+                        
 
                         <li class="mb-2">
-                            <i class="icofont icofont-check-circled"> </i> Modern Keyword Analysis to keep up to date
+                            <i class="icofont icofont-check-circled"> </i> Contribue à décharger les urgences des hôpitaux
                         </li>
 
                         <li class="mb-2">
-                            <i class="icofont icofont-check-circled"> </i> More quality content, social networking and relative sharing
+                            <i class="icofont icofont-check-circled"> </i> Pas de frais pour le canton, décharge pour les contribuables
                         </li>
 
                         <li class="mb-2">
-                            <i class="icofont icofont-check-circled"> </i> Social networking and relative sharing More quality content, 
+                            <i class="icofont icofont-check-circled"> </i> Expérience dans l’exploitation d’un service téléphonique de garde médicale
+                        </li>
+                        <li class="mb-2">
+                            <i class="icofont icofont-check-circled"> </i> Des directives télémédicales établies et fondées sur des preuves
                         </li>
                     </ul>
 
-                    <a href="#" class="mt-3 d-inline-block">Learn more about us <i class="fa fa-angle-right"></i></a>
+                    <a href="#" class="mt-3 d-inline-block">En savoir plus sur nous <i class="fa fa-angle-right"></i></a>
                 </div>
 
                 <div class="col-lg-6 col-md-4">
