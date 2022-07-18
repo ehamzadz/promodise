@@ -9,7 +9,7 @@
     <meta name="keywords" content="marketing,digital marketing,creative, agency, startup,promodise,onepage, clean, modern,seo,business, company">
     <meta name="author" content="Themefisher.com">
 
-   <title>Promodise - seo and digital marketing solution </title>
+   <title>Avis Medical</title>
     <!-- bootstrap.min css -->
     <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.css">
     <!-- Icofont Css -->
