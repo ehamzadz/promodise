@@ -34,7 +34,7 @@
             <div class="col-lg-3 col-sm-6 col-md-6">
                 <div class="footer-widget footer-text">
                     <h4>Notre localisation</h4>
-                    <p class="mail"><span>Mail:</span><!-- <a href="mailto:contact@avismed.net"> -->  contact@avismed.net<!-- </a> --></p>
+                    <p class="mail"><span>Mail:</span><!-- <a href="mailto:liamine1975@gmail.com"> -->  liamine1975@gmail.com<!-- </a> --></p>
                     <p><span>Téléphone :</span>+213 661 75 11 50</p>
                     <p><span>Localisation:</span> Bordj Bou Arreridj, Algeria</p>
                 </div>
