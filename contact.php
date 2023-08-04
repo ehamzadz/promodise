@@ -77,11 +77,13 @@
 <!--  CONTACT END  -->
 
 <!--  Google Map START  -->
-<section id="map" class="section-padding ">
+<section class="section-padding "> <!-- id="map" -->
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 col-sm-6 col-md-3">
-            </div>
+            <!--  <div class="col-lg-12 col-sm-6 col-md-3">                
+            </div> -->
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.009086640584!2d4.749503653964411!3d36.068882452329866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x128cbdc30728c0e9%3A0x478b45dcfc2abc6c!2sDr.%20AMMARI%20Liamine!5e0!3m2!1sen!2sdz!4v1691177307058!5m2!1sen!2sdz" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
         </div>
     </div>
 </section>

@@ -69,9 +69,9 @@
 
 
 
+/*
 
-
-          /*START GOOGLE MAP*/
+          //START GOOGLE MAP
           function initialize() {
             var mapOptions = {
               zoom: 15,
@@ -87,7 +87,28 @@
             });
           }
           google.maps.event.addDomListener(window, 'load', initialize);	
-          /*END GOOGLE MAP*/	
+          // END GOOGLE MAP
+*/
+
+          /*START GOOGLE MAP*/
+  function initialize() {
+    var mapOptions = {
+      zoom: 15,
+      scrollwheel: false,
+      center: new google.maps.LatLng(36.0685452, 4.7502804)
+    };
+    var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+    var marker = new google.maps.Marker({
+      position: map.getCenter(),
+      // icon: 'assets/img/map_pin.png', // You can't use custom icons in Lite Mode
+      map: map
+    });
+  }
+
+  /*END GOOGLE MAP*/
+
+  // Call the initialize function when the page loads
+  window.onload = initialize;
 
 
 })(window.jQuery);
