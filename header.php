@@ -8,8 +8,10 @@
     <meta name="description" content="seo & digital marketing">
     <meta name="keywords" content="marketing,digital marketing,creative, agency, startup,promodise,onepage, clean, modern,seo,business, company">
     <meta name="author" content="Themefisher.com">
+    <link rel="icon" type="image/x-icon" href="images/favicon02.ico">
 
-   <title>Avis Medical</title>
+    <title>Avis Medical</title>
+
     <!-- bootstrap.min css -->
     <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.css">
     <!-- Icofont Css -->
